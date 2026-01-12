@@ -12,6 +12,7 @@ Welcome! I'm passionate about the intersection between causal inference and ML, 
   - A project focused on analysing the discourse of Romanian politicians in official meetings (pending..)
 - 📄 Published work:
   - [Combining Causal Models for More Accurate NN Abstractions](https://github.com/maraPislar/combining-causal-models-for-accurate-NN-abstractions)
+  - [Reproducibility Study: Label-Free Explainability for Unsupervised Models](https://openreview.net/forum?id=sF_vYZSxSV)
 
 - 🌟 Interests: 
   - Causal inference + Machine learning = <3
