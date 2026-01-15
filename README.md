@@ -1,31 +1,34 @@
-# Hi there, I'm (Theodora-)Mara 👋
+# Hi there, I'm Mara 👋
 
-Welcome! I'm passionate about the intersection between causal inference and ML, sequential decision making, AI for science and of course, playing with the GenAI models. I enjoy exploring how to get the most out of my data from different fields, from political discourse and social media messages, to environmental and medical data. Data these days seems limitless, so might as well take advantage of that.
+**Machine Learning Engineer & Researcher**
+*Bridging the gap between Causal Inference and production-scale AI.*
 
-## 👩‍💻 Where I Work
+Currently, I work as a **Data Scientist at INGKA Group (IKEA)**, architecting the recommendations infrastructure serving millions of users. My focus is on building reliable, interpretable systems, whether that's deploying Multi-Armed Bandits in **Golang** or mapping the internal reasoning of LLMs.
 
-- Data Scientist at **INGKA GROUP DIGITAL (IKEA)**
+### 🚀 Highlights
 
-## 🌱 About Me
+- **🏆 Oral Presentation at CLeaR 2025:** My paper on *Causal Abstraction in Large Language Models* was selected for an oral presentation. I study *how* models reason, not just what they predict.
+- **🛠 Production RL at Scale:** Developed IKEA's shift to dynamic **Multi-Armed Bandit agents**. I built the **Golang** serving layer, powering the recommendation panel.
+- **🔎 Offline Simulation:** Designed the evaluation framework that allows us to test agent safety and convergence before live deployment.
 
-- 🔭 Currently working on:
-  - A project focused on analysing the discourse of Romanian politicians in official meetings (pending..)
-- 📄 Published work:
-  - [Combining Causal Models for More Accurate NN Abstractions](https://github.com/maraPislar/combining-causal-models-for-accurate-NN-abstractions)
-  - [Reproducibility Study: Label-Free Explainability for Unsupervised Models](https://openreview.net/forum?id=sF_vYZSxSV)
+### 🛠 Tech Stack
 
-- 🌟 Interests: 
-  - Causal inference + Machine learning = <3
-  - Sequential decision making
-  - AI for science
-  - LLMs (but who isn't)
-- 📚 Always learning and open to collaboration
+- **Languages:** Python, Golang, SQL
+- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Reinforcement Learning (Bandits)
+- **LLMs & GenAI:** Hugging Face (Transformers, PEFT), LangChain, OpenAI API
+- **Causal Inference:** DoWhy, CausalML
+- **Infrastructure:** Google Cloud Platform (Vertex AI, BigQuery, Pub/Sub)
 
-## 📫 How to reach me
+### 📚 Selected Research & Projects
 
-- LinkedIn: [Theodora-Mara Pislar](https://www.linkedin.com/in/theodora-mara-pislar/)
-- Email: maracartof@gmail.com
+- **[Combining Causal Models for Accurate NN Abstractions](https://github.com/maraPislar/combining-causal-models-for-accurate-NN-abstractions)** *Accepted for Oral Presentation at CLeaR 2025.* Investigating the mechanistic interpretability of GPT-2 through causal abstractions.
+  
+- **[Reproducibility Study: Label-Free Explainability](https://openreview.net/forum?id=sF_vYZSxSV)** Published reproducibility study on unsupervised model explainability.
+
+- **[Romanian Political Discourse Analysis](LINK_IF_YOU_HAVE_IT)** *In Progress.* Analyzing the discourse of politicians in official meetings using NLP techniques.
+
+### ⚡ Personal
+When I'm not debugging distributed systems or reading papers, I focus on discipline and technique through **Pole Fitness** 🤸‍♀️ and **Piano** 🎹.
 
 ---
-
-Thanks for stopping by! ⭐️
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theodora-mara-pislar/) &nbsp; [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pislarmara589@gmail.com)
