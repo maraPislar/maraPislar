@@ -1,9 +1,6 @@
 # Hi there, I'm Mara 👋
 
-**Machine Learning Engineer & Researcher**
-*Bridging the gap between Causal Inference and production-scale AI.*
-
-Currently, I work as a **Data Scientist at INGKA Group (IKEA)**, architecting the recommendations infrastructure serving millions of users. My focus is on building reliable, interpretable systems, whether that's deploying Multi-Armed Bandits in **Golang** or mapping the internal reasoning of LLMs.
+Currently, I work as a **Data Scientist at INGKA Group (IKEA)**, architecting the recommendations infrastructure serving millions of users.
 
 ### 🚀 Highlights
 
