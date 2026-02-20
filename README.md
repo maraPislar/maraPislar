@@ -8,8 +8,8 @@ Currently, I work as a **Data Scientist at INGKA Group (IKEA)**, architecting th
 ### 🚀 Highlights
 
 - **🏆 Oral Presentation at CLeaR 2025:** My paper on *Causal Abstraction in Large Language Models* was selected for an oral presentation. I study *how* models reason, not just what they predict.
-- **🛠 Production RL at Scale:** Developed IKEA's shift to dynamic **Multi-Armed Bandit agents**. I built the **Golang** serving layer, powering the recommendation panel.
-- **🔎 Offline Simulation:** Designed the evaluation framework that allows us to test agent safety and convergence before live deployment.
+- **🛠 Production RL at Scale:** Shift to dynamic **Multi-Armed Bandit agents**
+- **🔎 Offline Simulation:** Designed the evaluation framework that allows to test agent safety and convergence before live deployment.
 
 ### 🛠 Tech Stack
 
@@ -17,7 +17,7 @@ Currently, I work as a **Data Scientist at INGKA Group (IKEA)**, architecting th
 - **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Reinforcement Learning (Bandits)
 - **LLMs & GenAI:** Hugging Face (Transformers, PEFT), LangChain, OpenAI API
 - **Causal Inference:** DoWhy, CausalML
-- **Infrastructure:** Google Cloud Platform (Vertex AI, BigQuery, Pub/Sub)
+- **Infrastructure:** Google Cloud Platform (Vertex AI, BigQuery)
 
 ### 📚 Selected Research & Projects
 
