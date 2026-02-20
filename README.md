@@ -27,8 +27,5 @@ Currently, I work as a **Data Scientist at INGKA Group (IKEA)**, architecting th
 
 - **[Romanian Political Discourse Analysis](LINK_IF_YOU_HAVE_IT)** *In Progress.* Analyzing the discourse of politicians in official meetings using NLP techniques.
 
-### ⚡ Personal
-When I'm not debugging distributed systems or reading papers, I focus on discipline and technique through **Pole Fitness** 🤸‍♀️ and **Piano** 🎹.
-
 ---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theodora-mara-pislar/) &nbsp; [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pislarmara589@gmail.com)
