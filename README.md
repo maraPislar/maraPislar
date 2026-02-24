@@ -2,11 +2,7 @@
 
 **Data Scientist at INGKA Group (IKEA)**
 
-### 🚀 Highlights
-
-- **🏆 Oral Presentation at CLeaR 2025:** My paper on *Causal Abstraction in Large Language Models* was selected for an oral presentation. I study *how* models reason, not just what they predict.
-- **Multi-Armed Bandit agents**
-- **🔎 Offline simulations**
+**🏆 Oral Presentation at CLeaR 2025:** My paper on *Causal Abstraction in Large Language Models* was selected for an oral presentation. I study *how* models reason, not just what they predict.
 
 ### 🛠 Tech Stack
 
