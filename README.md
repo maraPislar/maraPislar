@@ -1,17 +1,17 @@
 # Hi there, I'm Mara 👋
 
-Currently, I work as a **Data Scientist at INGKA Group (IKEA)**, architecting the recommendations infrastructure serving millions of users.
+**Data Scientist at INGKA Group (IKEA)**
 
 ### 🚀 Highlights
 
 - **🏆 Oral Presentation at CLeaR 2025:** My paper on *Causal Abstraction in Large Language Models* was selected for an oral presentation. I study *how* models reason, not just what they predict.
-- **🛠 Production RL at Scale:** Shift to dynamic **Multi-Armed Bandit agents**
-- **🔎 Offline Simulation:** Designed the evaluation framework that allows to test agent safety and convergence before live deployment.
+- **Multi-Armed Bandit agents**
+- **🔎 Offline simulations**
 
 ### 🛠 Tech Stack
 
 - **Languages:** Python, Golang, SQL
-- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Reinforcement Learning (Bandits)
+- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn
 - **LLMs & GenAI:** Hugging Face (Transformers, PEFT), LangChain, OpenAI API
 - **Causal Inference:** DoWhy, CausalML
 - **Infrastructure:** Google Cloud Platform (Vertex AI, BigQuery)
