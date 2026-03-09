@@ -18,6 +18,10 @@
   
 - **[Reproducibility Study: Label-Free Explainability](https://openreview.net/forum?id=sF_vYZSxSV)** Published reproducibility study on unsupervised model explainability.
 
+- **[Cognitive Swarm: Real-time Semantic Attention Mapping](https://github.com/maraPislar/cognitive-swarm)** *A "Vibe-Coded" AI Agent for focus.* Built a Chrome Extension + Web App that tracks user browsing through 384-dim vector embeddings (`all-MiniLM-L6-v2`). 
+  - **The "North Star" Metaphor:** Maps real-time attention drift in a polar-coordinate "constellation map."
+  - **Tech:** Supabase Edge Functions, pgvector similarity search, D3.js visualization, and Framer Motion for interstellar UI physics.
+
 - **[Romanian Political Discourse Analysis](LINK_IF_YOU_HAVE_IT)** *In Progress.* Analyzing the discourse of politicians in official meetings using NLP techniques.
 
 ---
