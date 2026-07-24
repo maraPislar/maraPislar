@@ -22,7 +22,5 @@
   - **The "North Star" Metaphor:** Maps real-time attention drift in a polar-coordinate "constellation map."
   - **Tech:** Supabase Edge Functions, pgvector similarity search, D3.js visualization, and Framer Motion for interstellar UI physics.
 
-- **[Romanian Political Discourse Analysis](LINK_IF_YOU_HAVE_IT)** *In Progress.* Analyzing the discourse of politicians in official meetings using NLP techniques.
-
 ---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theodora-mara-pislar/) &nbsp; [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pislarmara589@gmail.com)
